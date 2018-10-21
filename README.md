@@ -1,3 +1,3 @@
 # my_website
-prsonal_blog_website
-<h2>SHUBHAM BLOG</h2>
+personal_blog_website
+<h2>SHUBHAM'S BLOG</h2>
